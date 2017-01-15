@@ -1,5 +1,9 @@
 # Title
 s/Weather for City:/Погода для:/
+s/Dnipro/Дніпро/
+s/Dnipropetrovsk/Дніпро/
+s/Kiev/Київ/
+s/Kyiv/Київ/
 s/Lutsk/Луцьк/
 s/Ukraine/Україна/
 s/Oymyakon, Russia/розташування не вказано!/

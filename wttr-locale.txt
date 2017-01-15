@@ -2,6 +2,7 @@
 s/Weather for City:/Погода для:/
 s/Lutsk/Луцьк/
 s/Ukraine/Україна/
+s/Oymyakon, Russia/розташування не вказано!/
 
 # Smokes
 s/Smoke/Смог /g
@@ -90,14 +91,17 @@ s/Noon/День/g
 s/Evening/ Вечір /g
 s/Night/ Ніч /g
 
+# Delete lines (optimization for 1024x600 pixels screen (127x37 symbols))
+/Follow/d
+/Feature/d
+/We were unable/d
+/so we have/d
+/one of the/d
+/^$/d
+
 # Metrics
 s/km/км/g
 s/h  /год/g
 s/h /г /g
 s/h/г/g
 s/mm/мм/g
-
-# Delete lines (optimization for 1024x600 pixels screen (127x37 symbols))
-/Follow/d
-/Feature/d
-/^$/d

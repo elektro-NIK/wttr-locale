@@ -36,6 +36,7 @@ s/Night/ Ніч /g
 s/Smoke/Смог /g
 s/Fog  /Туман/g
 s/Fog/Туман/
+s/Freezing fog/Паморозь    /g
 s/Mist    /Серпанок/g
 s/Mist/Серпанок/
 

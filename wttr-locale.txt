@@ -3,35 +3,6 @@ s/Weather for City:/Погода для:/
 s/Lutsk/Луцьк/
 s/Ukraine/Україна/
 
-# Days
-s/Mon/Пн,/g
-s/Tue/Вт,/g
-s/Wed/Ср,/g
-s/Thu/Чт,/g
-s/Fri/Пт,/g
-s/Sat/Сб,/g
-s/Sun/Нд,/g
-
-# Months
-s/. Jan/ Січ./g
-s/. Feb/ Лют./g
-s/. Mar/ Бер./g
-s/. Apr/ Кві./g
-s/. May/ Тра./g
-s/. Jun/ Чер./g
-s/. Jul/ Лип./g
-s/. Aug/ Сер./g
-s/. Sep/ Вер./g
-s/. Oct/ Жов./g
-s/. Nov/ Лис./g
-s/. Dec/ Гру./g
-
-# Day
-s/Morning/ Ранок /g
-s/Noon/День/g
-s/Evening/ Вечір /g
-s/Night/ Ніч /g
-
 # Smokes
 s/Smoke/Смог /g
 s/Fog  /Туман/g
@@ -89,6 +60,35 @@ s/Blizzard /Хурделиця/g
 s/Blizzard/Хурделиця/
 s/Snow Shower    /Злива зі снігом/g
 s/Snow Shower/Злива зі снігом/
+
+# Days
+s/Mon/Пн,/g
+s/Tue/Вт,/g
+s/Wed/Ср,/g
+s/Thu/Чт,/g
+s/Fri/Пт,/g
+s/Sat/Сб,/g
+s/Sun/Нд,/g
+
+# Months
+s/. Jan/ Січ./g
+s/. Feb/ Лют./g
+s/. Mar/ Бер./g
+s/. Apr/ Кві./g
+s/. May/ Тра./g
+s/. Jun/ Чер./g
+s/. Jul/ Лип./g
+s/. Aug/ Сер./g
+s/. Sep/ Вер./g
+s/. Oct/ Жов./g
+s/. Nov/ Лис./g
+s/. Dec/ Гру./g
+
+# Day
+s/Morning/ Ранок /g
+s/Noon/День/g
+s/Evening/ Вечір /g
+s/Night/ Ніч /g
 
 # Metrics
 s/km/км/g

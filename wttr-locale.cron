@@ -2,4 +2,4 @@ SHELL=/bin/bash
 
 #min  hour  day   month wday  command
 #------------------------------------
-*/15  *     *     *     *     /home/elektronik/1.sh
+*/15  *     *     *     *     /<DIR>/wttr-locale.sh         # <------ enter location

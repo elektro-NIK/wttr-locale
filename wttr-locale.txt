@@ -10,9 +10,10 @@ s/Oymyakon, Russia/розташування не вказано!/
 
 # Smokes
 s/Smoke/Смог /g
+s/Freezing fog/Паморозь    /g
+s/Freezing Fog/Паморозь/
 s/Fog  /Туман/g
 s/Fog/Туман/
-s/Freezing fog/Паморозь    /g
 s/Mist    /Серпанок/g
 s/Mist/Серпанок/
 

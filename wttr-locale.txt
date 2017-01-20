@@ -66,6 +66,7 @@ s/Blizzard /Хурделиця/g
 s/Blizzard/Хурделиця/
 s/Snow Shower    /Злива зі снігом/g
 s/Snow Shower/Злива зі снігом/
+s/Light Freezing Drizzle/Легка паморозь/
 
 # Days
 s/Mon/Пн,/g

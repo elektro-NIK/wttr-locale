@@ -35,6 +35,7 @@ s/Light sleet sh…/Злива зі снігом/g
 s/Light sleet /Мокрий сніг /g
 s/Light sleet/Невеликий мокрий сніг/
 s/Light drizzle/Легка мряка  /g
+s/Light Drizzle/Легка мряка/
 s/Heavy rain /Сильний дощ/g
 s/Heavy rain/Сильний дощ/
 s/Moderate or he…/Сильна злива   /g

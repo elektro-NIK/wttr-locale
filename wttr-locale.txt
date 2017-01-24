@@ -109,7 +109,9 @@ s/Night/ Ніч /g
 
 # Metrics
 s/km/км/g
+5s/h/год/
 s/h  /год/g
 s/h /г /g
 s/h/г/g
+
 s/mm/мм/g

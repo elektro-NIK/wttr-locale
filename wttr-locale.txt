@@ -68,6 +68,7 @@ s/Blizzard/Хурделиця/
 s/Snow Shower    /Злива зі снігом/g
 s/Snow Shower/Злива зі снігом/
 s/Light Freezing Drizzle/Невеликий дощ/
+s/Light freezing /Невеликий мокр…/g
 s/Heavy freezing /Сильний мокрий…/g
 s/Freezing Drizzle/Паморозь/
 

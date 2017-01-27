@@ -70,6 +70,7 @@ s/Snow Shower/Злива зі снігом/
 s/Light Freezing Drizzle/Невеликий дощ/
 s/Light freezing /Невеликий мокр…/g
 s/Heavy freezing /Сильний мокрий…/g
+s/Freezing drizz…/Паморозь       /g
 s/Freezing Drizzle/Паморозь/
 
 # Days

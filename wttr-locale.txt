@@ -29,6 +29,29 @@ s/Partly cloudy  /Слабка хмарніс…/g
 s/Partly cloudy/Слабка хмарність/
 s/Cloudy/Хмарно/g
 
+# Sun
+s/Sunny  /Сонячно/g
+s/Sunny/Сонячно/
+s/Clear/Ясно /g
+
+# Snows
+s/Heavy snow  /Сильний сніг/g
+s/Heavy snow/Сильний сніг/
+s/Moderate snow/Сніг         /g
+s/Light snow    /Невеликий сніг/g
+s/Light Snow/Невеликий сніг/
+s/Patchy light s…/Місцями сніг   /g
+s/Blizzard /Хурделиця/g
+s/Blizzard/Хурделиця/
+s/Snow Shower    /Злива зі снігом/g
+s/Snow Shower/Злива зі снігом/
+s/Light Freezing Drizzle/Невеликий дощ/
+s/Light freezing /Невеликий мокр…/g
+s/Light Freezing Rain/Невеликий мокрий сніг/
+s/Heavy freezing /Сильний мокрий…/g
+s/Freezing drizz…/Паморозь       /g
+s/Freezing Drizzle/Паморозь/
+
 # Rains
 s/Patchy sleet n…/Мокрий сніг    /g
 s/Light sleet sh…/Злива зі снігом/g
@@ -50,28 +73,6 @@ s/Patchy rain ne…/Можливий дощ   /g
 s/Patchy light d…/Місцями мряка  /g
 s/Patchy light r…/Місцями дощ    /g
 s/Rain/Дощ /
-
-# Sun
-s/Sunny  /Сонячно/g
-s/Sunny/Сонячно/
-s/Clear/Ясно /g
-
-# Snows
-s/Heavy snow  /Сильний сніг/g
-s/Heavy snow/Сильний сніг/
-s/Moderate snow/Сніг         /g
-s/Light snow    /Невеликий сніг/g
-s/Light Snow/Невеликий сніг/
-s/Patchy light s…/Місцями сніг   /g
-s/Blizzard /Хурделиця/g
-s/Blizzard/Хурделиця/
-s/Snow Shower    /Злива зі снігом/g
-s/Snow Shower/Злива зі снігом/
-s/Light Freezing Drizzle/Невеликий дощ/
-s/Light freezing /Невеликий мокр…/g
-s/Heavy freezing /Сильний мокрий…/g
-s/Freezing drizz…/Паморозь       /g
-s/Freezing Drizzle/Паморозь/
 
 # Days
 s/Mon/Пн,/g

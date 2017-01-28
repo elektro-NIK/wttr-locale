@@ -51,6 +51,7 @@ s/Light Freezing Rain/Невеликий мокрий сніг/
 s/Heavy freezing /Сильний мокрий…/g
 s/Freezing drizz…/Паморозь       /g
 s/Freezing Drizzle/Паморозь/
+s/Ice pellets/Град       /g
 
 # Rains
 s/Patchy sleet n…/Мокрий сніг    /g

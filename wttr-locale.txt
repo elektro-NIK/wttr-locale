@@ -8,108 +8,9 @@ s/Lutsk/Луцьк/
 s/Ukraine/Україна/
 s/Oymyakon, Russia/розташування не вказано!/
 
-# Smokes
-s/Smoke/Смог /g
-s/Freezing fog/Паморозь    /g
-s/Freezing Fog/Паморозь/
-s/Fog  /Туман/g
-s/Fog/Туман/
-s/Mist    /Серпанок/g
-s/Mist/Серпанок/
-
-# Thunder
-s/Thunderstorm/Гроза       /g
-s/Thundery outbr…/Грозове попере…/g
-s/Thundery outbreaks/Грозове попередження/
-
-# Clouds
-s/Overcast       /Сильна хмарніс…/g
-s/Overcast/Сильна хмарність/
-s/Partly cloudy  /Слабка хмарніс…/g
-s/Partly cloudy/Слабка хмарність/
-s/Cloudy/Хмарно/g
-
-# Sun
-s/Sunny  /Сонячно/g
-s/Sunny/Сонячно/
-s/Clear/Ясно /g
-
-# Snows
-s/Heavy snow  /Сильний сніг/g
-s/Heavy snow/Сильний сніг/
-s/Moderate snow/Сніг         /g
-s/Light snow    /Невеликий сніг/g
-s/Light Snow/Невеликий сніг/
-s/Patchy light s…/Місцями сніг   /g
-s/Blizzard /Хурделиця/g
-s/Blizzard/Хурделиця/
-s/Snow Shower    /Злива зі снігом/g
-s/Snow Shower/Злива зі снігом/
-s/Light Freezing Drizzle/Невеликий дощ/
-s/Light freezing /Невеликий мокр…/g
-s/Light Freezing Rain/Невеликий мокрий сніг/
-s/Heavy freezing /Сильний мокрий…/g
-s/Freezing drizz…/Паморозь       /g
-s/Freezing Drizzle/Паморозь/
-s/Ice pellets/Град       /g
-
-# Rains
-s/Patchy sleet n…/Мокрий сніг    /g
-s/Light sleet sh…/Злива зі снігом/g
-s/Light sleet /Мокрий сніг /g
-s/Light sleet/Невеликий мокрий сніг/
-s/Light drizzle/Легка мряка  /g
-s/Light Drizzle/Легка мряка/
-s/Heavy rain /Сильний дощ/g
-s/Heavy rain/Сильний дощ/
-s/Moderate or he…/Сильна злива   /g
-s/Moderate rain …/Часом дощ      /g
-s/Moderate rain/Дощ          /g
-s/Light rain sho…/Злива/g
-s/Rain shower /Проливний дощ/g
-s/Rain shower/Проливний дощ/
-s/Light rain   /Невеликий дощ/g
-s/Light rain/Невеликий дощ/
-s/Patchy rain ne…/Можливий дощ   /g
-s/Patchy light d…/Місцями мряка  /g
-s/Patchy light r…/Місцями дощ    /g
-s/Rain/Дощ /
-
-# Days
-s/Mon/Пн,/g
-s/Tue/Вт,/g
-s/Wed/Ср,/g
-s/Thu/Чт,/g
-s/Fri/Пт,/g
-s/Sat/Сб,/g
-s/Sun/Нд,/g
-
-# Months
-s/. Jan/ Січ./g
-s/. Feb/ Лют./g
-s/. Mar/ Бер./g
-s/. Apr/ Кві./g
-s/. May/ Тра./g
-s/. Jun/ Чер./g
-s/. Jul/ Лип./g
-s/. Aug/ Сер./g
-s/. Sep/ Вер./g
-s/. Oct/ Жов./g
-s/. Nov/ Лис./g
-s/. Dec/ Гру./g
-
-# Day
-s/Morning/ Ранок /g
-s/Noon/День/g
-s/Evening/ Вечір /g
-s/Night/ Ніч /g
-
 # Delete lines (optimization for 1024x600 pixels screen (127x37 symbols))
 /Follow/d
-/Feature/d
-/We were unable/d
-/so we have/d
-/one of the/d
+/Use your lang/d
 /^$/d
 
 # Metrics
@@ -118,5 +19,4 @@ s/km/км/g
 s/h  /год/g
 s/h /г /g
 s/h/г/g
-
 s/mm/мм/g

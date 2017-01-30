@@ -1,6 +1,6 @@
 # wttr-locale
 
-It's Ukrainian localization and optimization for small screen http://wttr.in (`$ curl http://wttr.in` command).
+It's little fix for Ukrainian localization and optimization for small screen on http://wttr.in (`$ curl http://wttr.in` command).
 
 Using:
 - edit  **wttr-locale.cron** for enter directory and town

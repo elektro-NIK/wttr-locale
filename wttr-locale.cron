@@ -2,6 +2,6 @@ SHELL=/bin/bash
 
 #min  hour  day   month wday  command
 #------------------------------------
-*/15  *     *     *     *     /<DIR>/wttr-locale.sh <TOWN>         # <------ enter location
+*/15  *     *     *     *     /<DIR>/wttr-locale.sh <CITY>         # <------ enter location
 # Example:
 #*/15  *     *     *     *     /home/user/.wttr/wttr-locale.sh Kyiv

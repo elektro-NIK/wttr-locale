@@ -10,7 +10,7 @@ s/Oymyakon, Russia/розташування не вказано!/
 
 # Delete lines (optimization for 1024x600 pixels screen (127x37 symbols))
 /Follow/d
-/Use your lang/d
+/for the localized/d
 /We were unable/d
 /so we have/d
 /one of the/d

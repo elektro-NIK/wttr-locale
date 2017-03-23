@@ -4,4 +4,4 @@ SHELL=/bin/bash
 #------------------------------------
 */15  *     *     *     *     /<DIR>/wttr-locale.sh <CITY>         # <------ enter location
 # Example:
-#*/15  *     *     *     *     /home/user/.wttr/wttr-locale.sh Kyiv
+#*/15  *     *     *     *     /home/user/.wttr/wttr-locale.sh Київ

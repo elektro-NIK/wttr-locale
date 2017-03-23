@@ -1,11 +1,5 @@
 # Title
 s/Weather for City:/Погода для:/
-s/Dnipro/Дніпро/
-s/Dnipropetrovsk/Дніпро/
-s/Kiev/Київ/
-s/Kyiv/Київ/
-s/Lutsk/Луцьк/
-s/Ukraine/Україна/
 s/Oymyakon, Russia/розташування не вказано!/
 
 # Delete lines (optimization for 1024x600 pixels screen (127x37 symbols))
@@ -14,6 +8,8 @@ s/Oymyakon, Russia/розташування не вказано!/
 /We were unable/d
 /so we have/d
 /one of the/d
+/Location/d
+/multilingual location/d
 /^$/d
 
 # Metrics
